@@ -1,0 +1,4 @@
+<%= @event.name %>
+<%= simple_format(@event.description) %>
+<%= Rails.logger.debug("Event: #{@event.inspect}") %>
+<p><%= link_to 'Back to index', events_path %></p>

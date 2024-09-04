@@ -1,0 +1,16 @@
+/* app/assets/stylesheets/flash.css */
+.flash-notice {
+  color: green;
+  background-color: #e0ffe0;
+  padding: 10px;
+  border: 1px solid green;
+  border-radius: 5px;
+}
+
+.flash-alert {
+  color: red;
+  background-color: #ffe0e0;
+  padding: 10px;
+  border: 1px solid red;
+  border-radius: 5px;
+}
