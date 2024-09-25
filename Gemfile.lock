@@ -156,11 +156,7 @@ GEM
     nio4r (2.7.3)
     nokogiri (1.16.7-aarch64-linux)
       racc (~> 1.4)
-    nokogiri (1.16.7-arm-linux)
-      racc (~> 1.4)
     nokogiri (1.16.7-arm64-darwin)
-      racc (~> 1.4)
-    nokogiri (1.16.7-x86-linux)
       racc (~> 1.4)
     nokogiri (1.16.7-x86_64-darwin)
       racc (~> 1.4)
@@ -263,15 +259,15 @@ GEM
       rexml (~> 3.2, >= 3.2.5)
       rubyzip (>= 1.2.2, < 3.0)
       websocket (~> 1.0)
-    sorbet (0.5.11554)
-      sorbet-static (= 0.5.11554)
-    sorbet-runtime (0.5.11554)
-    sorbet-static (0.5.11554-aarch64-linux)
-    sorbet-static (0.5.11554-universal-darwin)
-    sorbet-static (0.5.11554-x86_64-linux)
-    sorbet-static-and-runtime (0.5.11554)
-      sorbet (= 0.5.11554)
-      sorbet-runtime (= 0.5.11554)
+    sorbet (0.5.11581)
+      sorbet-static (= 0.5.11581)
+    sorbet-runtime (0.5.11581)
+    sorbet-static (0.5.11581-aarch64-linux)
+    sorbet-static (0.5.11581-universal-darwin)
+    sorbet-static (0.5.11581-x86_64-linux)
+    sorbet-static-and-runtime (0.5.11581)
+      sorbet (= 0.5.11581)
+      sorbet-runtime (= 0.5.11581)
     spoom (1.4.2)
       erubi (>= 1.10.0)
       prism (>= 0.28.0)
@@ -286,11 +282,7 @@ GEM
       sprockets (>= 3.0.0)
     sqlite3 (2.0.4-aarch64-linux-gnu)
     sqlite3 (2.0.4-aarch64-linux-musl)
-    sqlite3 (2.0.4-arm-linux-gnu)
-    sqlite3 (2.0.4-arm-linux-musl)
     sqlite3 (2.0.4-arm64-darwin)
-    sqlite3 (2.0.4-x86-linux-gnu)
-    sqlite3 (2.0.4-x86-linux-musl)
     sqlite3 (2.0.4-x86_64-darwin)
     sqlite3 (2.0.4-x86_64-linux-gnu)
     sqlite3 (2.0.4-x86_64-linux-musl)
@@ -339,13 +331,7 @@ PLATFORMS
   aarch64-linux
   aarch64-linux-gnu
   aarch64-linux-musl
-  arm-linux
-  arm-linux-gnu
-  arm-linux-musl
   arm64-darwin
-  x86-linux
-  x86-linux-gnu
-  x86-linux-musl
   x86_64-darwin
   x86_64-linux
   x86_64-linux-gnu
